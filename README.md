@@ -6,7 +6,7 @@ Install  ubuntu 20 on termux and download Sedo tool  (root)
 
 
 
-apt update -y #FF0017
+apt update -y 
 
 
 
