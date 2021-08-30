@@ -98,6 +98,7 @@ bash ubuntu.sh
 
 
 
+تشغيل الاداة 
 
 
 ./start-ubuntu20.sh
